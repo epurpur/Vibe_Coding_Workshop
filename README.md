@@ -48,6 +48,6 @@ Vibe Coding is programming or software development assisted by AI where the huma
 ### Origin of Vibe Coding
 The origins of the term can be traced back to a [tweet by Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383?lang=en) in 2025. 
 
-![](images/VibeCodeScreenshot.png)
+![](VibeCodeScreenshot.png)
 
 
