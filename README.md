@@ -50,4 +50,19 @@ The origins of the term can be traced back to a [tweet by Andrej Karpathy](https
 
 ![](VibeCodeScreenshot.png)
 
+### Benefits
+- Low barrier to entry. Makes coding, programming, app building far more accessible to inexperience or non-technical audience
+- Very fast prototyping of ideas
 
+### Problems
+- Erosion of code comprehension. If people never write code themselves anymore, your understanding of it will degrade.
+- Chaotic Maintenance. Code bases become messy, inefficient, and hard to maintain.
+- Security Risks. Vibe-coded applications lack proper validation, authentication, have hard-coded variables (such as API keys), and more.
+- General AI Slop
+
+----------------------------------------------------------------------------------------------------
+
+### Evolution of Vibe Coding. From Chatbots to Agents
+This is just my own observation. In fall of 2022, ChatGPT hit the scene, followed by a quick succession of similar tools like Google's Bard (now Gemini), Microsoft Copilot, and so on. All of a sudden, you could use the chatbot to write code for you in basically any language. It was, and still is, very helpful for short, isolated code snippets and scripts. However, a major problem was that it lacked the context to understand larger and more complicated codebases. 
+
+Agentic AI became widely available in late 2024. Agentic AI programs have "agency", which allows them to make decisions under human guidance. They can create much more involved and complicated codebases with multiple files, folders, assets, all within the same project directory. This increased capability allows gives these tools a lot more power and functionality to create.
