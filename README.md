@@ -20,10 +20,10 @@ Erich Purpur
 
 These workshops are offered by [research data services](https://data.library.virginia.edu/) in the UVA Libraries. Research Data Services does these things:
     
-    1. Find and Manage Data
-    2. Data Analysis & Visualization
-    3. Workshops & Trainings (Like this one!)
-    4. Free Statistics & Technical Consultations in the [StatLab](https://library.virginia.edu/data/statlab)
+1. Find and Manage Data
+2. Data Analysis & Visualization
+3. Workshops & Trainings (Like this one!)
+4. Free Statistics & Technical Consultations in the [StatLab](https://library.virginia.edu/data/statlab)
 
 ## StatLab
 * [StatLab](https://library.virginia.edu/data/statlab)
