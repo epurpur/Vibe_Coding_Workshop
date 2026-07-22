@@ -33,8 +33,8 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 
 | Workshop | Date | Time |
 | ---- | ---- | ---- |
-| Intro to Python pt 1                                                |       Tuesday 1/20   |  3:00 - 4:30pm
-| Intro to Python pt 2                                                |       Tuesday 1/27   |  3:00 - 4:30pm
-| Python & APIs                                                       |       Tuesday 2/3    |  3:00 - 4:30pm
-| Using Large Lanugage Models Locally                                 |       Tuesday 2/17   |  3:00 - 4:30pm
-| Python & Local LLMs                                                 |       Tuesday 2/24   |  3:00 - 4:30pm
+| Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
+| Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
+| Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
+| Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
+| Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
