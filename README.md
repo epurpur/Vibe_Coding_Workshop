@@ -38,3 +38,16 @@ The UVA Library StatLab provides free statistics & similar technical consulting 
 | Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
 | Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
 | Change Me                                                |       Test 1/1   |  3:00 - 4:30pm
+
+
+----------------------------------------------------------------------------------------------------
+
+# Vibe Coding
+Vibe Coding is programming or software development assisted by AI where the human describes a project or task in a prompt to a Large Language Model (LLM), which generates source code. The human then reviews and refines the code to ensure accuracy and security.
+
+### Origin of Vibe Coding
+The origins of the term can be traced back to a [tweet by Andrej Karpathy](https://x.com/karpathy/status/1886192184808149383?lang=en) in 2025. 
+
+
+
+
