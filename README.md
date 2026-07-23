@@ -109,3 +109,7 @@ I have taught an [entire workshop on this topic](https://github.com/epurpur/Prom
 | E | Explicit. Clear output specifications                 |
 | A | Adaptive. Flexibility and customization in prompts    |
 | R | Reflective. Continuous evaluation and improvement of prompts    |
+
+----------------------------------------------------------------------------------------------------
+
+# Best Practices and Caveats. Human Oversight Still Needed!
