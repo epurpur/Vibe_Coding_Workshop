@@ -1,4 +1,4 @@
-# Vibe_Coding_Workshop
+# Vibe Coding & AI Agents Workshop
 
 ```
 Last updated 07/22/26
